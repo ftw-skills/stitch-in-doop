@@ -1,0 +1,26 @@
+{
+  "geometry": {"width": 900, "height": 540, "padding": 12, "columnGap": 10, "rowGap": 8, "tilePadding": 10, "iconGap": 6},
+  "canvas": {"margin": 32, "columnGap": 80, "frameGap": 48},
+  "typographyDefaults": {
+    "en": {"uiFont": "Arial, sans-serif", "labels": {"headline":"Headline","body":"Body","label":"Label"}},
+    "zh": {"uiFont": "'Noto Sans SC', 'Microsoft YaHei', sans-serif", "labels": {"headline":"标题","body":"正文","label":"标签"}},
+    "uiSize": 12, "uiLineHeight": 1.3
+  },
+  "iconGrid": {"style": {"min": 28, "max": 42, "fill": 0.68}, "asset": {"min": 36, "max": 66, "fill": 0.65}},
+  "style": {
+    "columns": [
+      {"id": "color", "label": "Color", "fraction": 0.95},
+      {"id": "font", "label": "Font", "fraction": 1.05},
+      {"id": "component", "label": "Component", "fraction": 1.6}
+    ],
+    "colors": ["primary", "secondary", "tertiary", "neutral"],
+    "fonts": {"headline": "head", "body": "body", "label": "label", "input": "input"},
+    "buttons": ["primary", "secondary", "inverted", "outlined"],
+    "componentRows": ["button", "small_component", "system_icon", "project_icon"]
+  },
+  "asset": {
+    "sort": ["color", "width", "height", "name"],
+    "adaptiveColumns": 6,
+    "adaptiveTiles": {"icon": {"width": 136, "height": 110}, "photo": {"width": 136, "height": 136}}
+  }
+}

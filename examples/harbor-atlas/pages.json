@@ -1,0 +1,401 @@
+{
+  "name": "Harbor Atlas · Responsive acceptance",
+  "devices": [
+    {
+      "name": "Mobile",
+      "width": 390,
+      "height": 844,
+      "frameHeight": 2500,
+      "start": "en",
+      "frames": [
+        {
+          "id": "en",
+          "name": "Harbor Atlas · English",
+          "file": "pages/en.html",
+          "uniqueNames": true,
+          "checks": [
+            {
+              "selector": "html",
+              "lang": "en"
+            },
+            {
+              "selector": "header h1",
+              "font": "Georgia",
+              "lines": 2
+            },
+            {
+              "selector": ".intro",
+              "font": "Arial"
+            },
+            {
+              "selector": ".eyebrow",
+              "font": "Consolas"
+            },
+            {
+              "selector": ".directory",
+              "rect": {
+                "x": 20,
+                "width": 350
+              }
+            },
+            {
+              "selector": ".directory > article",
+              "count": 26
+            },
+            {
+              "selector": ".directory .glyph svg",
+              "count": 26
+            },
+            {
+              "selector": ".service:first-child .glyph svg",
+              "rect": {
+                "width": 18,
+                "height": 18
+              }
+            },
+            {
+              "selector": ".service:nth-child(1)",
+              "rect": {
+                "x": 20
+              }
+            },
+            {
+              "selector": ".service:nth-child(2)",
+              "rect": {
+                "x": 20
+              }
+            }
+          ]
+        },
+        {
+          "id": "zh",
+          "name": "Harbor Atlas · 简体中文",
+          "file": "pages/zh.html",
+          "uniqueNames": true,
+          "checks": [
+            {
+              "selector": "html",
+              "lang": "zh-CN"
+            },
+            {
+              "selector": "header h1",
+              "font": "Noto Serif SC",
+              "lines": 1
+            },
+            {
+              "selector": ".intro",
+              "font": "Noto Sans SC"
+            },
+            {
+              "selector": ".eyebrow",
+              "font": "DengXian"
+            },
+            {
+              "selector": ".directory",
+              "rect": {
+                "x": 20,
+                "width": 350
+              }
+            },
+            {
+              "selector": ".directory > article",
+              "count": 26
+            },
+            {
+              "selector": ".directory .glyph svg",
+              "count": 26
+            },
+            {
+              "selector": ".service:first-child .glyph svg",
+              "rect": {
+                "width": 18,
+                "height": 18
+              }
+            },
+            {
+              "selector": ".service:nth-child(1)",
+              "rect": {
+                "x": 20
+              }
+            },
+            {
+              "selector": ".service:nth-child(2)",
+              "rect": {
+                "x": 20
+              }
+            }
+          ]
+        }
+      ],
+      "expectedRoute": [
+        "en",
+        "zh",
+        "en"
+      ]
+    },
+    {
+      "name": "Tablet",
+      "width": 820,
+      "height": 1050,
+      "frameHeight": 1590,
+      "start": "en",
+      "frames": [
+        {
+          "id": "en",
+          "name": "Harbor Atlas · English",
+          "file": "pages/en.html",
+          "uniqueNames": true,
+          "checks": [
+            {
+              "selector": "html",
+              "lang": "en"
+            },
+            {
+              "selector": "header h1",
+              "font": "Georgia",
+              "lines": 1
+            },
+            {
+              "selector": ".intro",
+              "font": "Arial"
+            },
+            {
+              "selector": ".eyebrow",
+              "font": "Consolas"
+            },
+            {
+              "selector": ".directory",
+              "rect": {
+                "x": 34,
+                "width": 752
+              }
+            },
+            {
+              "selector": ".directory > article",
+              "count": 26
+            },
+            {
+              "selector": ".directory .glyph svg",
+              "count": 26
+            },
+            {
+              "selector": ".service:first-child .glyph svg",
+              "rect": {
+                "width": 20,
+                "height": 20
+              }
+            },
+            {
+              "selector": ".service:nth-child(2)",
+              "rect": {
+                "x": 416
+              }
+            },
+            {
+              "selector": ".service:nth-child(3)",
+              "rect": {
+                "x": 34
+              }
+            }
+          ]
+        },
+        {
+          "id": "zh",
+          "name": "Harbor Atlas · 简体中文",
+          "file": "pages/zh.html",
+          "uniqueNames": true,
+          "checks": [
+            {
+              "selector": "html",
+              "lang": "zh-CN"
+            },
+            {
+              "selector": "header h1",
+              "font": "Noto Serif SC",
+              "lines": 1
+            },
+            {
+              "selector": ".intro",
+              "font": "Noto Sans SC"
+            },
+            {
+              "selector": ".eyebrow",
+              "font": "DengXian"
+            },
+            {
+              "selector": ".directory",
+              "rect": {
+                "x": 34,
+                "width": 752
+              }
+            },
+            {
+              "selector": ".directory > article",
+              "count": 26
+            },
+            {
+              "selector": ".directory .glyph svg",
+              "count": 26
+            },
+            {
+              "selector": ".service:first-child .glyph svg",
+              "rect": {
+                "width": 20,
+                "height": 20
+              }
+            },
+            {
+              "selector": ".service:nth-child(2)",
+              "rect": {
+                "x": 416
+              }
+            },
+            {
+              "selector": ".service:nth-child(3)",
+              "rect": {
+                "x": 34
+              }
+            }
+          ]
+        }
+      ],
+      "expectedRoute": [
+        "en",
+        "zh",
+        "en"
+      ]
+    },
+    {
+      "name": "Desktop",
+      "width": 1440,
+      "height": 1024,
+      "frameHeight": 1320,
+      "start": "en",
+      "frames": [
+        {
+          "id": "en",
+          "name": "Harbor Atlas · English",
+          "file": "pages/en.html",
+          "uniqueNames": true,
+          "checks": [
+            {
+              "selector": "html",
+              "lang": "en"
+            },
+            {
+              "selector": "header h1",
+              "font": "Georgia",
+              "lines": 1
+            },
+            {
+              "selector": ".intro",
+              "font": "Arial"
+            },
+            {
+              "selector": ".eyebrow",
+              "font": "Consolas"
+            },
+            {
+              "selector": ".directory",
+              "rect": {
+                "x": 56,
+                "width": 1328
+              }
+            },
+            {
+              "selector": ".directory > article",
+              "count": 26
+            },
+            {
+              "selector": ".directory .glyph svg",
+              "count": 26
+            },
+            {
+              "selector": ".service:first-child .glyph svg",
+              "rect": {
+                "width": 24,
+                "height": 24
+              }
+            },
+            {
+              "selector": ".service:nth-child(4)",
+              "rect": {
+                "x": 1061
+              }
+            },
+            {
+              "selector": ".service:nth-child(5)",
+              "rect": {
+                "x": 56
+              }
+            }
+          ]
+        },
+        {
+          "id": "zh",
+          "name": "Harbor Atlas · 简体中文",
+          "file": "pages/zh.html",
+          "uniqueNames": true,
+          "checks": [
+            {
+              "selector": "html",
+              "lang": "zh-CN"
+            },
+            {
+              "selector": "header h1",
+              "font": "Noto Serif SC",
+              "lines": 1
+            },
+            {
+              "selector": ".intro",
+              "font": "Noto Sans SC"
+            },
+            {
+              "selector": ".eyebrow",
+              "font": "DengXian"
+            },
+            {
+              "selector": ".directory",
+              "rect": {
+                "x": 56,
+                "width": 1328
+              }
+            },
+            {
+              "selector": ".directory > article",
+              "count": 26
+            },
+            {
+              "selector": ".directory .glyph svg",
+              "count": 26
+            },
+            {
+              "selector": ".service:first-child .glyph svg",
+              "rect": {
+                "width": 24,
+                "height": 24
+              }
+            },
+            {
+              "selector": ".service:nth-child(4)",
+              "rect": {
+                "x": 1061
+              }
+            },
+            {
+              "selector": ".service:nth-child(5)",
+              "rect": {
+                "x": 56
+              }
+            }
+          ]
+        }
+      ],
+      "expectedRoute": [
+        "en",
+        "zh",
+        "en"
+      ]
+    }
+  ]
+}

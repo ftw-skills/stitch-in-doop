@@ -1,0 +1,217 @@
+{
+  "url": "http://localhost:4400/c/77wQ4zTrrO",
+  "frames": 15,
+  "routes": [
+    {
+      "page": "Mobile",
+      "pageId": "77wQ4zTrrO:page1",
+      "width": 390,
+      "states": [
+        "en",
+        "zh",
+        "en"
+      ],
+      "expectedFrameIds": [
+        "Gpd_Tf6WrK",
+        "Fh5FIn8iGm",
+        "Gpd_Tf6WrK"
+      ],
+      "observedFrameIds": [
+        "Gpd_Tf6WrK",
+        "Fh5FIn8iGm",
+        "Gpd_Tf6WrK"
+      ],
+      "actions": [
+        "简体中文",
+        "English"
+      ]
+    },
+    {
+      "page": "Tablet",
+      "pageId": "XUtpFxAn6Z",
+      "width": 820,
+      "states": [
+        "en",
+        "zh",
+        "en"
+      ],
+      "expectedFrameIds": [
+        "djphyaqbeR",
+        "4Ld96J0CqU",
+        "djphyaqbeR"
+      ],
+      "observedFrameIds": [
+        "djphyaqbeR",
+        "4Ld96J0CqU",
+        "djphyaqbeR"
+      ],
+      "actions": [
+        "简体中文",
+        "English"
+      ]
+    },
+    {
+      "page": "Desktop",
+      "pageId": "DvDFU_lAJy",
+      "width": 1440,
+      "states": [
+        "en",
+        "zh",
+        "en"
+      ],
+      "expectedFrameIds": [
+        "Z6RpYWcGJz",
+        "cerprQ6nJ0",
+        "Z6RpYWcGJz"
+      ],
+      "observedFrameIds": [
+        "Z6RpYWcGJz",
+        "cerprQ6nJ0",
+        "Z6RpYWcGJz"
+      ],
+      "actions": [
+        "简体中文",
+        "English"
+      ]
+    }
+  ],
+  "repeatedChanges": 0,
+  "player": "Doop native standalone",
+  "frameMetadata": [
+    {
+      "id": "sYU1wHvjJn",
+      "name": "Style Card",
+      "pageId": "77wQ4zTrrO:page1",
+      "width": 900,
+      "height": 540,
+      "x": 32,
+      "y": 32
+    },
+    {
+      "id": "eOGgOjmVnl",
+      "name": "Object Marks",
+      "pageId": "77wQ4zTrrO:page1",
+      "width": 900,
+      "height": 134,
+      "x": 32,
+      "y": 620
+    },
+    {
+      "id": "N4nS1gcYuy",
+      "name": "Photography",
+      "pageId": "77wQ4zTrrO:page1",
+      "width": 900,
+      "height": 306,
+      "x": 32,
+      "y": 802
+    },
+    {
+      "id": "Gpd_Tf6WrK",
+      "name": "Clay Archive · English",
+      "pageId": "77wQ4zTrrO:page1",
+      "width": 390,
+      "height": 1400,
+      "x": 1012,
+      "y": 32
+    },
+    {
+      "id": "Fh5FIn8iGm",
+      "name": "Clay Archive · 简体中文",
+      "pageId": "77wQ4zTrrO:page1",
+      "width": 390,
+      "height": 1400,
+      "x": 1450,
+      "y": 32
+    },
+    {
+      "id": "vreoZUFeSx",
+      "name": "Style Card",
+      "pageId": "XUtpFxAn6Z",
+      "width": 900,
+      "height": 540,
+      "x": 32,
+      "y": 32
+    },
+    {
+      "id": "k0PfyVo7YE",
+      "name": "Object Marks",
+      "pageId": "XUtpFxAn6Z",
+      "width": 900,
+      "height": 134,
+      "x": 32,
+      "y": 620
+    },
+    {
+      "id": "gLGyos8B09",
+      "name": "Photography",
+      "pageId": "XUtpFxAn6Z",
+      "width": 900,
+      "height": 306,
+      "x": 32,
+      "y": 802
+    },
+    {
+      "id": "djphyaqbeR",
+      "name": "Clay Archive · English",
+      "pageId": "XUtpFxAn6Z",
+      "width": 820,
+      "height": 1050,
+      "x": 1012,
+      "y": 32
+    },
+    {
+      "id": "4Ld96J0CqU",
+      "name": "Clay Archive · 简体中文",
+      "pageId": "XUtpFxAn6Z",
+      "width": 820,
+      "height": 1050,
+      "x": 1880,
+      "y": 32
+    },
+    {
+      "id": "vw20z2T-63",
+      "name": "Style Card",
+      "pageId": "DvDFU_lAJy",
+      "width": 900,
+      "height": 540,
+      "x": 32,
+      "y": 32
+    },
+    {
+      "id": "Mz2BON2dbV",
+      "name": "Object Marks",
+      "pageId": "DvDFU_lAJy",
+      "width": 900,
+      "height": 134,
+      "x": 32,
+      "y": 620
+    },
+    {
+      "id": "ZU1AOAMYpa",
+      "name": "Photography",
+      "pageId": "DvDFU_lAJy",
+      "width": 900,
+      "height": 306,
+      "x": 32,
+      "y": 802
+    },
+    {
+      "id": "Z6RpYWcGJz",
+      "name": "Clay Archive · English",
+      "pageId": "DvDFU_lAJy",
+      "width": 1440,
+      "height": 1024,
+      "x": 1012,
+      "y": 32
+    },
+    {
+      "id": "cerprQ6nJ0",
+      "name": "Clay Archive · 简体中文",
+      "pageId": "DvDFU_lAJy",
+      "width": 1440,
+      "height": 1024,
+      "x": 2500,
+      "y": 32
+    }
+  ]
+}

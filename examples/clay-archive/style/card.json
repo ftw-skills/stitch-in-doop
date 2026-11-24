@@ -1,0 +1,141 @@
+{
+  "lang": "en",
+  "geometry": {
+    "width": 900,
+    "height": 540,
+    "padding": 16,
+    "columnGap": 12,
+    "rowGap": 10,
+    "tilePadding": 12,
+    "iconGap": 6
+  },
+  "buttons": [
+    "primary",
+    "secondary",
+    "inverted",
+    "outlined"
+  ],
+  "fontSpecimens": {
+    "headline": [
+      "headline-latin",
+      "headline-display"
+    ],
+    "body": [
+      "body-latin",
+      "body-md"
+    ],
+    "label": [
+      "label-latin",
+      "label-sm"
+    ],
+    "input": [
+      "input-latin",
+      "input-md"
+    ]
+  },
+  "scrollbarDemo": true,
+  "widgets": [
+    {
+      "id": "route",
+      "kind": "checkbox",
+      "label": "Route",
+      "state": "unchecked",
+      "token": "checkbox-idle"
+    },
+    {
+      "id": "route",
+      "kind": "checkbox",
+      "label": "Route",
+      "state": "checked",
+      "token": "checkbox-active"
+    },
+    {
+      "id": "mode",
+      "kind": "radio",
+      "label": "Mode",
+      "state": "unchecked",
+      "token": "checkbox-idle"
+    },
+    {
+      "id": "mode",
+      "kind": "radio",
+      "label": "Mode",
+      "state": "checked",
+      "token": "checkbox-active"
+    },
+    {
+      "id": "alerts",
+      "kind": "switch",
+      "label": "Alerts",
+      "state": "off",
+      "token": "switch-off"
+    },
+    {
+      "id": "alerts",
+      "kind": "switch",
+      "label": "Alerts",
+      "state": "on",
+      "token": "switch-on"
+    },
+    {
+      "id": "search",
+      "kind": "inputfield",
+      "language": "en",
+      "label": "Search",
+      "state": "default",
+      "token": "inputfield-idle"
+    },
+    {
+      "id": "search",
+      "kind": "inputfield",
+      "language": "en",
+      "label": "Search",
+      "state": "filled",
+      "value": "Celadon",
+      "token": "inputfield-idle"
+    },
+    {
+      "id": "search",
+      "kind": "inputfield",
+      "language": "en",
+      "label": "Search",
+      "state": "focus",
+      "token": "inputfield-focus"
+    },
+    {
+      "id": "search",
+      "kind": "inputfield",
+      "language": "zh-CN",
+      "label": "搜索",
+      "state": "default",
+      "token": "inputfield-idle"
+    },
+    {
+      "id": "search",
+      "kind": "inputfield",
+      "language": "zh-CN",
+      "label": "搜索",
+      "state": "filled",
+      "value": "青釉",
+      "token": "inputfield-idle"
+    },
+    {
+      "id": "search",
+      "kind": "inputfield",
+      "language": "zh-CN",
+      "label": "搜索",
+      "state": "focus",
+      "token": "inputfield-focus"
+    }
+  ],
+  "systemIcons": [
+    {
+      "id": "studio",
+      "label": "Studio",
+      "file": "studio.svg",
+      "width": 22,
+      "height": 22
+    }
+  ],
+  "showProjectIconRow": false
+}

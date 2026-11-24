@@ -1,0 +1,244 @@
+{
+  "url": "http://localhost:4400/c/8rZSDGvzVD",
+  "frames": 18,
+  "routes": [
+    {
+      "page": "Mobile",
+      "pageId": "8rZSDGvzVD:page1",
+      "width": 390,
+      "states": [
+        "en",
+        "zh",
+        "en"
+      ],
+      "expectedFrameIds": [
+        "xoyMmZxjD6",
+        "HahnzApyMf",
+        "xoyMmZxjD6"
+      ],
+      "observedFrameIds": [
+        "xoyMmZxjD6",
+        "HahnzApyMf",
+        "xoyMmZxjD6"
+      ],
+      "actions": [
+        "简体中文",
+        "English"
+      ]
+    },
+    {
+      "page": "Tablet",
+      "pageId": "coge05g5Kc",
+      "width": 820,
+      "states": [
+        "en",
+        "zh",
+        "en"
+      ],
+      "expectedFrameIds": [
+        "PiNQIbe6UJ",
+        "q30jwJpXdx",
+        "PiNQIbe6UJ"
+      ],
+      "observedFrameIds": [
+        "PiNQIbe6UJ",
+        "q30jwJpXdx",
+        "PiNQIbe6UJ"
+      ],
+      "actions": [
+        "简体中文",
+        "English"
+      ]
+    },
+    {
+      "page": "Desktop",
+      "pageId": "gihMqIa9xf",
+      "width": 1440,
+      "states": [
+        "en",
+        "zh",
+        "en"
+      ],
+      "expectedFrameIds": [
+        "offwVNhkp1",
+        "AI7hg6WF6-",
+        "offwVNhkp1"
+      ],
+      "observedFrameIds": [
+        "offwVNhkp1",
+        "AI7hg6WF6-",
+        "offwVNhkp1"
+      ],
+      "actions": [
+        "简体中文",
+        "English"
+      ]
+    }
+  ],
+  "repeatedChanges": 0,
+  "player": "Doop native standalone",
+  "frameMetadata": [
+    {
+      "id": "A2XcH51qPy",
+      "name": "Style Card",
+      "pageId": "8rZSDGvzVD:page1",
+      "width": 900,
+      "height": 540,
+      "x": 32,
+      "y": 32
+    },
+    {
+      "id": "fHIZgyCN5s",
+      "name": "Directory Navigation",
+      "pageId": "8rZSDGvzVD:page1",
+      "width": 900,
+      "height": 134,
+      "x": 32,
+      "y": 620
+    },
+    {
+      "id": "Ar6BrhBufO",
+      "name": "Main Section",
+      "pageId": "8rZSDGvzVD:page1",
+      "width": 900,
+      "height": 614,
+      "x": 32,
+      "y": 802
+    },
+    {
+      "id": "XeWUTZwgz5",
+      "name": "Photography · Crop Study",
+      "pageId": "8rZSDGvzVD:page1",
+      "width": 900,
+      "height": 306,
+      "x": 32,
+      "y": 1464
+    },
+    {
+      "id": "xoyMmZxjD6",
+      "name": "Harbor Atlas · English",
+      "pageId": "8rZSDGvzVD:page1",
+      "width": 390,
+      "height": 2500,
+      "x": 1012,
+      "y": 32
+    },
+    {
+      "id": "HahnzApyMf",
+      "name": "Harbor Atlas · 简体中文",
+      "pageId": "8rZSDGvzVD:page1",
+      "width": 390,
+      "height": 2500,
+      "x": 1450,
+      "y": 32
+    },
+    {
+      "id": "wKp7Mh27BL",
+      "name": "Style Card",
+      "pageId": "coge05g5Kc",
+      "width": 900,
+      "height": 540,
+      "x": 32,
+      "y": 32
+    },
+    {
+      "id": "hljBTqODXn",
+      "name": "Directory Navigation",
+      "pageId": "coge05g5Kc",
+      "width": 900,
+      "height": 134,
+      "x": 32,
+      "y": 620
+    },
+    {
+      "id": "1RSSWIFfY4",
+      "name": "Main Section",
+      "pageId": "coge05g5Kc",
+      "width": 900,
+      "height": 614,
+      "x": 32,
+      "y": 802
+    },
+    {
+      "id": "K0RtudQ-0x",
+      "name": "Photography · Crop Study",
+      "pageId": "coge05g5Kc",
+      "width": 900,
+      "height": 306,
+      "x": 32,
+      "y": 1464
+    },
+    {
+      "id": "PiNQIbe6UJ",
+      "name": "Harbor Atlas · English",
+      "pageId": "coge05g5Kc",
+      "width": 820,
+      "height": 1590,
+      "x": 1012,
+      "y": 32
+    },
+    {
+      "id": "q30jwJpXdx",
+      "name": "Harbor Atlas · 简体中文",
+      "pageId": "coge05g5Kc",
+      "width": 820,
+      "height": 1590,
+      "x": 1880,
+      "y": 32
+    },
+    {
+      "id": "3iRqTG6FPu",
+      "name": "Style Card",
+      "pageId": "gihMqIa9xf",
+      "width": 900,
+      "height": 540,
+      "x": 32,
+      "y": 32
+    },
+    {
+      "id": "_XOBx-jOm3",
+      "name": "Directory Navigation",
+      "pageId": "gihMqIa9xf",
+      "width": 900,
+      "height": 134,
+      "x": 32,
+      "y": 620
+    },
+    {
+      "id": "WjD9UF9n93",
+      "name": "Main Section",
+      "pageId": "gihMqIa9xf",
+      "width": 900,
+      "height": 614,
+      "x": 32,
+      "y": 802
+    },
+    {
+      "id": "1ngKmskpCU",
+      "name": "Photography · Crop Study",
+      "pageId": "gihMqIa9xf",
+      "width": 900,
+      "height": 306,
+      "x": 32,
+      "y": 1464
+    },
+    {
+      "id": "offwVNhkp1",
+      "name": "Harbor Atlas · English",
+      "pageId": "gihMqIa9xf",
+      "width": 1440,
+      "height": 1320,
+      "x": 1012,
+      "y": 32
+    },
+    {
+      "id": "AI7hg6WF6-",
+      "name": "Harbor Atlas · 简体中文",
+      "pageId": "gihMqIa9xf",
+      "width": 1440,
+      "height": 1320,
+      "x": 2500,
+      "y": 32
+    }
+  ]
+}

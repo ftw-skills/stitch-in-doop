@@ -1,0 +1,55 @@
+{
+  "style": "style/card.json",
+  "assets": "asset/manifest.json",
+  "pages": "pages.json",
+  "typography": {
+    "Mobile": {
+      "minWidth": 0,
+      "mainInset": 20,
+      "page_title": {
+        "size": 32,
+        "lineHeight": 1.12
+      },
+      "section_title": {
+        "size": 24,
+        "lineHeight": 1.2
+      },
+      "subsection_title": {
+        "size": 18,
+        "lineHeight": 1.3
+      }
+    },
+    "Tablet": {
+      "minWidth": 640,
+      "mainInset": 32,
+      "page_title": {
+        "size": 40,
+        "lineHeight": 1.12
+      },
+      "section_title": {
+        "size": 28,
+        "lineHeight": 1.2
+      },
+      "subsection_title": {
+        "size": 20,
+        "lineHeight": 1.3
+      }
+    },
+    "Desktop": {
+      "minWidth": 1100,
+      "mainInset": 52,
+      "page_title": {
+        "size": 52,
+        "lineHeight": 1.12
+      },
+      "section_title": {
+        "size": 36,
+        "lineHeight": 1.2
+      },
+      "subsection_title": {
+        "size": 24,
+        "lineHeight": 1.3
+      }
+    }
+  }
+}

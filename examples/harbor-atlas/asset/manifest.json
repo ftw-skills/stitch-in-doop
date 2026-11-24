@@ -1,0 +1,282 @@
+{
+  "classificationVersion": 1,
+  "usageFile": "reports/icon-usage.json",
+  "categories": [
+    {
+      "id": "hero",
+      "name": "Hero",
+      "scope": "system",
+      "purpose": "The icon in the introductory banner.",
+      "layout": "adaptive",
+      "items": [
+        {
+          "id": "home",
+          "label": "Home",
+          "file": "home.svg",
+          "displayOn": "style",
+          "source": "style"
+        }
+      ]
+    },
+    {
+      "id": "navigation",
+      "name": "Directory Navigation",
+      "scope": "system",
+      "purpose": "Peer items in the navigation bar, in screen order.",
+      "layout": "adaptive",
+      "items": [
+        {
+          "id": "catalog",
+          "label": "Directory",
+          "file": "catalog.svg",
+          "displayOn": "style",
+          "source": "style"
+        },
+        {
+          "id": "bookmark",
+          "label": "Saved",
+          "file": "bookmark.svg",
+          "displayOn": "style",
+          "source": "style"
+        },
+        {
+          "id": "dashboard",
+          "label": "Overview",
+          "file": "dashboard.svg",
+          "displayOn": "style",
+          "source": "style"
+        },
+        {
+          "id": "notifications",
+          "label": "Notices",
+          "file": "notifications.svg",
+          "displayOn": "asset",
+          "source": "style"
+        },
+        {
+          "id": "settings",
+          "label": "Settings",
+          "file": "settings.svg",
+          "displayOn": "asset",
+          "source": "style"
+        },
+        {
+          "id": "usage",
+          "label": "Activity",
+          "file": "usage.svg",
+          "displayOn": "asset",
+          "source": "style"
+        },
+        {
+          "id": "filter",
+          "label": "Filter",
+          "file": "filter.svg",
+          "displayOn": "asset",
+          "source": "style"
+        }
+      ]
+    },
+    {
+      "id": "main_section",
+      "name": "Main Section",
+      "scope": "project",
+      "purpose": "Peer icons from the main directory grid, in page order.",
+      "layout": "adaptive",
+      "rawFolder": "services",
+      "items": [
+        {
+          "id": "electric",
+          "label": "Charging",
+          "file": "electric.svg",
+          "displayOn": "asset",
+          "source": "style"
+        },
+        {
+          "id": "water",
+          "label": "Drinking water",
+          "file": "water.svg",
+          "displayOn": "asset",
+          "source": "style"
+        },
+        {
+          "id": "air",
+          "label": "Cooling room",
+          "file": "air.svg",
+          "displayOn": "asset",
+          "source": "style"
+        },
+        {
+          "id": "ev",
+          "label": "EV parking",
+          "file": "ev.svg",
+          "displayOn": "asset",
+          "source": "style"
+        },
+        {
+          "id": "irrigation",
+          "label": "Community garden",
+          "file": "irrigation.svg",
+          "displayOn": "asset",
+          "source": "style"
+        },
+        {
+          "id": "ventilation",
+          "label": "Air station",
+          "file": "ventilation.svg",
+          "displayOn": "asset",
+          "source": "style"
+        },
+        {
+          "id": "laundry",
+          "label": "Washrooms",
+          "file": "laundry.svg",
+          "displayOn": "asset",
+          "source": "style"
+        },
+        {
+          "id": "greenway",
+          "label": "Greenway",
+          "file": "greenway.svg",
+          "displayOn": "asset",
+          "source": "style"
+        },
+        {
+          "id": "weather",
+          "label": "Weather",
+          "file": "weather.svg",
+          "displayOn": "asset",
+          "source": "style"
+        },
+        {
+          "id": "lighting",
+          "label": "Lighting",
+          "file": "lighting.svg",
+          "displayOn": "asset",
+          "source": "style"
+        },
+        {
+          "id": "temperature",
+          "label": "Temperature",
+          "file": "temperature.svg",
+          "displayOn": "asset"
+        },
+        {
+          "id": "viewpoint",
+          "label": "Viewpoint",
+          "file": "viewpoint.svg",
+          "displayOn": "asset"
+        },
+        {
+          "id": "tides",
+          "label": "Tide forecast",
+          "file": "tides.svg",
+          "displayOn": "asset"
+        },
+        {
+          "id": "help",
+          "label": "Verified desk",
+          "file": "help.svg",
+          "displayOn": "asset"
+        },
+        {
+          "id": "aid",
+          "label": "First aid",
+          "file": "aid.svg",
+          "displayOn": "asset"
+        },
+        {
+          "id": "ferry",
+          "label": "Ferry",
+          "file": "ferry.svg",
+          "displayOn": "asset"
+        },
+        {
+          "id": "rail",
+          "label": "Rail",
+          "file": "rail.svg",
+          "displayOn": "asset"
+        },
+        {
+          "id": "bicycle",
+          "label": "Cycling",
+          "file": "bicycle.svg",
+          "displayOn": "asset"
+        },
+        {
+          "id": "shelter",
+          "label": "Shelter",
+          "file": "shelter.svg",
+          "displayOn": "asset"
+        },
+        {
+          "id": "tower",
+          "label": "Beacon",
+          "file": "tower.svg",
+          "displayOn": "asset"
+        },
+        {
+          "id": "map",
+          "label": "Map",
+          "file": "map.svg",
+          "displayOn": "asset"
+        },
+        {
+          "id": "museum",
+          "label": "Museum",
+          "file": "museum.svg",
+          "displayOn": "asset"
+        },
+        {
+          "id": "waves",
+          "label": "Waterfront",
+          "file": "waves.svg",
+          "displayOn": "asset"
+        },
+        {
+          "id": "trail",
+          "label": "Walking trail",
+          "file": "trail.svg",
+          "displayOn": "asset"
+        },
+        {
+          "id": "camera",
+          "label": "Photo spot",
+          "file": "camera.svg",
+          "displayOn": "asset"
+        },
+        {
+          "id": "dining",
+          "label": "Dining",
+          "file": "dining.svg",
+          "displayOn": "asset"
+        }
+      ]
+    },
+    {
+      "id": "photo_study",
+      "name": "Photography · Crop Study",
+      "kind": "photo",
+      "layout": "adaptive",
+      "items": [
+        {
+          "id": "landscape",
+          "label": "Landscape ceramic study",
+          "file": "landscape.png",
+          "aspectRatio": 1.610738255033557
+        },
+        {
+          "id": "portrait",
+          "label": "Portrait ceramic study",
+          "file": "portrait.png",
+          "aspectRatio": 0.7
+        },
+        {
+          "id": "square",
+          "label": "Square ceramic study",
+          "file": "square.png",
+          "aspectRatio": 1
+        }
+      ]
+    }
+  ]
+}

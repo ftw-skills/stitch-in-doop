@@ -1,0 +1,112 @@
+{
+  "url": "http://localhost:4400/c/uXKJGXDgG-",
+  "frames": 6,
+  "routes": [
+    {
+      "page": "Shot 01 · Set the shelf",
+      "pageId": "uXKJGXDgG-:page1",
+      "width": 960,
+      "states": [
+        "opening"
+      ],
+      "expectedFrameIds": [
+        "i-tax07-4Q"
+      ],
+      "observedFrameIds": [
+        "i-tax07-4Q"
+      ],
+      "imageDimensions": [
+        [
+          480,
+          298
+        ],
+        [
+          480,
+          480
+        ]
+      ]
+    },
+    {
+      "page": "Shot 02 · The iron kettle",
+      "pageId": "TxMCsN4BB3",
+      "width": 960,
+      "states": [
+        "detail"
+      ],
+      "expectedFrameIds": [
+        "--edz6r8wW"
+      ],
+      "observedFrameIds": [
+        "--edz6r8wW"
+      ],
+      "imageDimensions": [
+        [
+          480,
+          480
+        ],
+        [
+          480,
+          298
+        ]
+      ]
+    }
+  ],
+  "repeatedChanges": 0,
+  "controls": null,
+  "frameMetadata": [
+    {
+      "id": "464_73pLzm",
+      "pageId": "uXKJGXDgG-:page1",
+      "name": "Style Card",
+      "width": 900,
+      "height": 540,
+      "x": 32,
+      "y": 32
+    },
+    {
+      "id": "eziPEeWn4M",
+      "pageId": "uXKJGXDgG-:page1",
+      "name": "Ceramic crop studies",
+      "width": 900,
+      "height": 306,
+      "x": 32,
+      "y": 620
+    },
+    {
+      "id": "i-tax07-4Q",
+      "pageId": "uXKJGXDgG-:page1",
+      "name": "Shot 01 · Set the shelf",
+      "width": 960,
+      "height": 540,
+      "x": 1012,
+      "y": 32
+    },
+    {
+      "id": "h0XRAkO3Bd",
+      "pageId": "TxMCsN4BB3",
+      "name": "Style Card",
+      "width": 900,
+      "height": 540,
+      "x": 32,
+      "y": 32
+    },
+    {
+      "id": "QDQpgfPWWv",
+      "pageId": "TxMCsN4BB3",
+      "name": "Ceramic crop studies",
+      "width": 900,
+      "height": 306,
+      "x": 32,
+      "y": 620
+    },
+    {
+      "id": "--edz6r8wW",
+      "pageId": "TxMCsN4BB3",
+      "name": "Shot 02 · The iron kettle",
+      "width": 960,
+      "height": 540,
+      "x": 1012,
+      "y": 32
+    }
+  ]
+}

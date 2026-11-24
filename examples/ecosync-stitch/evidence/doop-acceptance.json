@@ -1,0 +1,97 @@
+{
+  "url": "http://localhost:4400/c/i0IQLYGiT8",
+  "frames": 6,
+  "routes": [
+    {
+      "page": "Mobile",
+      "pageId": "i0IQLYGiT8:page1",
+      "width": 390,
+      "states": [
+        "dashboard",
+        "history",
+        "automations",
+        "dashboard"
+      ],
+      "expectedFrameIds": [
+        "wAfZxJIBsJ",
+        "RAdW_PomSX",
+        "5w1ap2S0Yn",
+        "wAfZxJIBsJ"
+      ],
+      "observedFrameIds": [
+        "wAfZxJIBsJ",
+        "RAdW_PomSX",
+        "5w1ap2S0Yn",
+        "wAfZxJIBsJ"
+      ],
+      "actions": [
+        "Usage",
+        "Automate Now",
+        "Dashboard"
+      ]
+    }
+  ],
+  "repeatedChanges": 0,
+  "controls": {
+    "HVAC": {
+      "initial": true,
+      "observed": false
+    }
+  },
+  "frameMetadata": [
+    {
+      "id": "nBKBLIFSG3",
+      "pageId": "i0IQLYGiT8:page1",
+      "name": "Style Card",
+      "width": 900,
+      "height": 540,
+      "x": 32,
+      "y": 32
+    },
+    {
+      "id": "PJfvQLWlS2",
+      "pageId": "i0IQLYGiT8:page1",
+      "name": "Devices and Resources",
+      "width": 900,
+      "height": 254,
+      "x": 32,
+      "y": 620
+    },
+    {
+      "id": "GwxnGQ9X2Q",
+      "pageId": "i0IQLYGiT8:page1",
+      "name": "Actions and Status",
+      "width": 900,
+      "height": 254,
+      "x": 32,
+      "y": 922
+    },
+    {
+      "id": "wAfZxJIBsJ",
+      "pageId": "i0IQLYGiT8:page1",
+      "name": "Main Dashboard",
+      "width": 390,
+      "height": 1120,
+      "x": 1012,
+      "y": 32
+    },
+    {
+      "id": "RAdW_PomSX",
+      "pageId": "i0IQLYGiT8:page1",
+      "name": "Usage History",
+      "width": 390,
+      "height": 1120,
+      "x": 1450,
+      "y": 32
+    },
+    {
+      "id": "5w1ap2S0Yn",
+      "pageId": "i0IQLYGiT8:page1",
+      "name": "Automations",
+      "width": 390,
+      "height": 1120,
+      "x": 1888,
+      "y": 32
+    }
+  ]
+}

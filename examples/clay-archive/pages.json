@@ -1,0 +1,281 @@
+{
+  "name": "Clay Archive · Responsive acceptance",
+  "devices": [
+    {
+      "name": "Mobile",
+      "width": 390,
+      "height": 844,
+      "frameHeight": 1400,
+      "start": "en",
+      "expectedRoute": [
+        "en",
+        "zh",
+        "en"
+      ],
+      "frames": [
+        {
+          "id": "en",
+          "name": "Clay Archive · English",
+          "file": "pages/en.html",
+          "uniqueNames": true,
+          "verifyAssets": true,
+          "checks": [
+            {
+              "selector": "html",
+              "lang": "en"
+            },
+            {
+              "selector": "h1",
+              "text": "Objects from the kiln",
+              "font": "Georgia",
+              "lines": 2
+            },
+            {
+              "selector": ".language",
+              "css": {
+                "min-height": "44px"
+              }
+            },
+            {
+              "selector": ".records > article",
+              "count": 3
+            },
+            {
+              "selector": ".record img",
+              "count": 3
+            },
+            {
+              "selector": ".record:nth-child(2)",
+              "rect": {
+                "x": 20
+              }
+            }
+          ]
+        },
+        {
+          "id": "zh",
+          "name": "Clay Archive · 简体中文",
+          "file": "pages/zh.html",
+          "uniqueNames": true,
+          "verifyAssets": true,
+          "checks": [
+            {
+              "selector": "html",
+              "lang": "zh-CN"
+            },
+            {
+              "selector": "h1",
+              "text": "窑中器物",
+              "font": "Noto Serif SC",
+              "lines": 1
+            },
+            {
+              "selector": ".language",
+              "css": {
+                "min-height": "44px"
+              }
+            },
+            {
+              "selector": ".records > article",
+              "count": 3
+            },
+            {
+              "selector": ".record img",
+              "count": 3
+            },
+            {
+              "selector": ".record:nth-child(2)",
+              "rect": {
+                "x": 20
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Tablet",
+      "width": 820,
+      "height": 1050,
+      "frameHeight": 1050,
+      "start": "en",
+      "expectedRoute": [
+        "en",
+        "zh",
+        "en"
+      ],
+      "frames": [
+        {
+          "id": "en",
+          "name": "Clay Archive · English",
+          "file": "pages/en.html",
+          "uniqueNames": true,
+          "verifyAssets": true,
+          "checks": [
+            {
+              "selector": "html",
+              "lang": "en"
+            },
+            {
+              "selector": "h1",
+              "text": "Objects from the kiln",
+              "font": "Georgia",
+              "lines": 1
+            },
+            {
+              "selector": ".language",
+              "css": {
+                "min-height": "44px"
+              }
+            },
+            {
+              "selector": ".records > article",
+              "count": 3
+            },
+            {
+              "selector": ".record img",
+              "count": 3
+            },
+            {
+              "selector": ".record:nth-child(2)",
+              "rect": {
+                "x": 418
+              }
+            }
+          ]
+        },
+        {
+          "id": "zh",
+          "name": "Clay Archive · 简体中文",
+          "file": "pages/zh.html",
+          "uniqueNames": true,
+          "verifyAssets": true,
+          "checks": [
+            {
+              "selector": "html",
+              "lang": "zh-CN"
+            },
+            {
+              "selector": "h1",
+              "text": "窑中器物",
+              "font": "Noto Serif SC",
+              "lines": 1
+            },
+            {
+              "selector": ".language",
+              "css": {
+                "min-height": "44px"
+              }
+            },
+            {
+              "selector": ".records > article",
+              "count": 3
+            },
+            {
+              "selector": ".record img",
+              "count": 3
+            },
+            {
+              "selector": ".record:nth-child(2)",
+              "rect": {
+                "x": 418
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Desktop",
+      "width": 1440,
+      "height": 1024,
+      "frameHeight": 1024,
+      "start": "en",
+      "expectedRoute": [
+        "en",
+        "zh",
+        "en"
+      ],
+      "frames": [
+        {
+          "id": "en",
+          "name": "Clay Archive · English",
+          "file": "pages/en.html",
+          "uniqueNames": true,
+          "verifyAssets": true,
+          "checks": [
+            {
+              "selector": "html",
+              "lang": "en"
+            },
+            {
+              "selector": "h1",
+              "text": "Objects from the kiln",
+              "font": "Georgia",
+              "lines": 1
+            },
+            {
+              "selector": ".language",
+              "css": {
+                "min-height": "44px"
+              }
+            },
+            {
+              "selector": ".records > article",
+              "count": 3
+            },
+            {
+              "selector": ".record img",
+              "count": 3
+            },
+            {
+              "selector": ".record:nth-child(2)",
+              "rect": {
+                "x": 509.3333333333333
+              }
+            }
+          ]
+        },
+        {
+          "id": "zh",
+          "name": "Clay Archive · 简体中文",
+          "file": "pages/zh.html",
+          "uniqueNames": true,
+          "verifyAssets": true,
+          "checks": [
+            {
+              "selector": "html",
+              "lang": "zh-CN"
+            },
+            {
+              "selector": "h1",
+              "text": "窑中器物",
+              "font": "Noto Serif SC",
+              "lines": 1
+            },
+            {
+              "selector": ".language",
+              "css": {
+                "min-height": "44px"
+              }
+            },
+            {
+              "selector": ".records > article",
+              "count": 3
+            },
+            {
+              "selector": ".record img",
+              "count": 3
+            },
+            {
+              "selector": ".record:nth-child(2)",
+              "rect": {
+                "x": 509.3333333333333
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

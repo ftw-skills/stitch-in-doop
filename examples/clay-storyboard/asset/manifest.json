@@ -1,0 +1,55 @@
+{
+  "classificationVersion": 1,
+  "categories": [
+    {
+      "id": "intro",
+      "name": "Studio",
+      "scope": "system",
+      "layout": "adaptive",
+      "purpose": "Studio identity in the introduction",
+      "items": [
+        {
+          "id": "studio",
+          "label": "Studio",
+          "file": "studio.svg",
+          "source": "style",
+          "displayOn": "style",
+          "width": 24,
+          "height": 24,
+          "provenance": "Original Clay Archive glyph",
+          "license": "Project-authored"
+        }
+      ]
+    },
+    {
+      "id": "photography",
+      "name": "Ceramic crop studies",
+      "kind": "photo",
+      "layout": "adaptive",
+      "rawFolder": "photos",
+      "purpose": "Bowl and kettle images shared across both shots",
+      "items": [
+        {
+          "id": "landscape",
+          "label": "Celadon bowl",
+          "file": "landscape.png",
+          "aspectRatio": 1.610738255033557,
+          "provenance": "Generated Kiln Notes sheet via Harbor Atlas",
+          "license": "Existing project-generated reference asset",
+          "width": 480,
+          "height": 298
+        },
+        {
+          "id": "square",
+          "label": "Iron-glazed kettle",
+          "file": "square.png",
+          "aspectRatio": 1,
+          "provenance": "Generated Kiln Notes sheet via Harbor Atlas",
+          "license": "Existing project-generated reference asset",
+          "width": 480,
+          "height": 480
+        }
+      ]
+    }
+  ]
+}

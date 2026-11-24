@@ -1,0 +1,4 @@
+interface:
+  display_name: "Stitch in Doop"
+  short_description: "Convert design sources into editable Doop canvases"
+  default_prompt: "Use $stitch-in-doop to confirm the design source and create an editable Doop canvas with Style Card, Asset Cards, and previews."

@@ -1,0 +1,54 @@
+{
+  "lang": "en",
+  "buttons": [
+    "primary",
+    "secondary",
+    "inverted",
+    "outlined"
+  ],
+  "widgets": [
+    {
+      "id": "appliance",
+      "kind": "switch",
+      "label": "Appliance",
+      "state": "off",
+      "token": "switch-off"
+    },
+    {
+      "id": "appliance",
+      "kind": "switch",
+      "label": "Appliance",
+      "state": "on",
+      "token": "switch-on"
+    }
+  ],
+  "systemIcons": [
+    {
+      "id": "dashboard",
+      "label": "Dashboard",
+      "file": "dashboard.svg"
+    },
+    {
+      "id": "usage-history",
+      "label": "Usage History",
+      "file": "bar_chart.svg"
+    },
+    {
+      "id": "automations",
+      "label": "Automations",
+      "file": "settings_input_component.svg"
+    },
+    {
+      "id": "settings",
+      "label": "Settings",
+      "file": "settings.svg"
+    },
+    {
+      "id": "notifications",
+      "label": "Notifications",
+      "file": "notifications.svg"
+    }
+  ],
+  "projectIcons": [],
+  "scrollbarDemo": true
+}

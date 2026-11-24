@@ -1,0 +1,50 @@
+{
+  "passed": true,
+  "archive": "ecosync-stitch.zip",
+  "sha256": "53d3516e2495af9258d8f63fc88e098f420d0c1968275bed857a14b09e34cd98",
+  "files": 3,
+  "results": [
+    {
+      "flow": 1,
+      "device": "Mobile",
+      "viewport": [
+        390,
+        844
+      ],
+      "states": [
+        {
+          "path": "index.html",
+          "lang": "en",
+          "images": [],
+          "overflow": 0
+        },
+        {
+          "path": "index.html",
+          "lang": "en",
+          "images": [],
+          "overflow": 0
+        },
+        {
+          "path": "history.html",
+          "lang": "en",
+          "images": [],
+          "overflow": 0
+        },
+        {
+          "path": "automations.html",
+          "lang": "en",
+          "images": [],
+          "overflow": 0
+        },
+        {
+          "path": "index.html",
+          "lang": "en",
+          "images": [],
+          "overflow": 0
+        }
+      ],
+      "requests": [],
+      "errors": []
+    }
+  ]
+}

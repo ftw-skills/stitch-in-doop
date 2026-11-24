@@ -1,0 +1,215 @@
+{
+  "passed": true,
+  "archive": "clay-archive.zip",
+  "sha256": "0faf7693fec3832628104d2229afdeacc8fdb1b9b2bfcad68dd341fe0ac7bf81",
+  "files": 6,
+  "results": [
+    {
+      "flow": 1,
+      "device": "Mobile",
+      "viewport": [
+        390,
+        844
+      ],
+      "states": [
+        {
+          "path": "index.html",
+          "lang": "en",
+          "images": [
+            [
+              480,
+              298
+            ],
+            [
+              420,
+              600
+            ],
+            [
+              480,
+              480
+            ]
+          ],
+          "overflow": 0
+        },
+        {
+          "path": "pages/zh.html",
+          "lang": "zh-CN",
+          "images": [
+            [
+              480,
+              298
+            ],
+            [
+              420,
+              600
+            ],
+            [
+              480,
+              480
+            ]
+          ],
+          "overflow": 0
+        },
+        {
+          "path": "index.html",
+          "lang": "en",
+          "images": [
+            [
+              480,
+              298
+            ],
+            [
+              420,
+              600
+            ],
+            [
+              480,
+              480
+            ]
+          ],
+          "overflow": 0
+        }
+      ],
+      "requests": [],
+      "errors": []
+    },
+    {
+      "flow": 1,
+      "device": "Tablet",
+      "viewport": [
+        820,
+        1050
+      ],
+      "states": [
+        {
+          "path": "index.html",
+          "lang": "en",
+          "images": [
+            [
+              480,
+              298
+            ],
+            [
+              420,
+              600
+            ],
+            [
+              480,
+              480
+            ]
+          ],
+          "overflow": 0
+        },
+        {
+          "path": "pages/zh.html",
+          "lang": "zh-CN",
+          "images": [
+            [
+              480,
+              298
+            ],
+            [
+              420,
+              600
+            ],
+            [
+              480,
+              480
+            ]
+          ],
+          "overflow": 0
+        },
+        {
+          "path": "index.html",
+          "lang": "en",
+          "images": [
+            [
+              480,
+              298
+            ],
+            [
+              420,
+              600
+            ],
+            [
+              480,
+              480
+            ]
+          ],
+          "overflow": 0
+        }
+      ],
+      "requests": [],
+      "errors": []
+    },
+    {
+      "flow": 1,
+      "device": "Desktop",
+      "viewport": [
+        1440,
+        1024
+      ],
+      "states": [
+        {
+          "path": "index.html",
+          "lang": "en",
+          "images": [
+            [
+              480,
+              298
+            ],
+            [
+              420,
+              600
+            ],
+            [
+              480,
+              480
+            ]
+          ],
+          "overflow": 0
+        },
+        {
+          "path": "pages/zh.html",
+          "lang": "zh-CN",
+          "images": [
+            [
+              480,
+              298
+            ],
+            [
+              420,
+              600
+            ],
+            [
+              480,
+              480
+            ]
+          ],
+          "overflow": 0
+        },
+        {
+          "path": "index.html",
+          "lang": "en",
+          "images": [
+            [
+              480,
+              298
+            ],
+            [
+              420,
+              600
+            ],
+            [
+              480,
+              480
+            ]
+          ],
+          "overflow": 0
+        }
+      ],
+      "requests": [],
+      "errors": []
+    }
+  ]
+}

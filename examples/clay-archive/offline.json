@@ -1,0 +1,13 @@
+{
+  "slug": "clay-archive",
+  "flows": [
+    {
+      "devices": ["Mobile", "Tablet", "Desktop"],
+      "steps": [
+        {"path":"index.html","visible":"h1","lang":"en","images":3},
+        {"click":"[data-route-key=\"zh\"]","path":"pages/zh.html","visible":"h1","lang":"zh-CN","images":3},
+        {"click":"[data-route-key=\"en\"]","path":"index.html","visible":"h1","lang":"en","images":3}
+      ]
+    }
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "slug": "ecosync-stitch",
+  "flows": [{
+    "devices": ["Mobile"],
+    "steps": [
+      {"path":"index.html","visible":"h1"},
+      {"click":"label:has([data-doop-name=\"input_hvac\"])","path":"index.html","visible":"label:has([data-doop-name=\"input_hvac\"]:not(:checked))"},
+      {"click":"[data-doop-name=\"nav_usage_history\"]","path":"history.html","visible":"[data-doop-name=\"button_automate_now\"]"},
+      {"click":"[data-doop-name=\"button_automate_now\"]","path":"automations.html","visible":"[data-doop-name=\"input_peak_hours_eco_mode\"]"},
+      {"click":"[data-doop-name=\"nav_dashboard\"]","path":"index.html","visible":"h1"}
+    ]
+  }]
+}

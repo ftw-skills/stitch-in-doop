@@ -1,0 +1,249 @@
+{
+  "categories": [
+    {
+      "id": "navigation",
+      "name": "Navigation",
+      "items": [
+        {
+          "id": "dashboard",
+          "label": "Dashboard",
+          "file": "dashboard.svg",
+          "source": "style",
+          "displayOn": "style",
+          "provenance": "Google Material Symbols Outlined; mapped from observed Stitch glyphs",
+          "license": "Apache-2.0",
+          "width": 24,
+          "height": 24
+        },
+        {
+          "id": "usage-history",
+          "label": "Usage History",
+          "file": "bar_chart.svg",
+          "source": "style",
+          "displayOn": "style",
+          "provenance": "Google Material Symbols Outlined; mapped from observed Stitch glyphs",
+          "license": "Apache-2.0",
+          "width": 24,
+          "height": 24
+        },
+        {
+          "id": "automations",
+          "label": "Automations",
+          "file": "settings_input_component.svg",
+          "source": "style",
+          "displayOn": "style",
+          "provenance": "Google Material Symbols Outlined; mapped from observed Stitch glyphs",
+          "license": "Apache-2.0",
+          "width": 24,
+          "height": 24
+        },
+        {
+          "id": "settings",
+          "label": "Settings",
+          "file": "settings.svg",
+          "source": "style",
+          "displayOn": "style",
+          "provenance": "Google Material Symbols Outlined; mapped from observed Stitch glyphs",
+          "license": "Apache-2.0",
+          "width": 24,
+          "height": 24
+        },
+        {
+          "id": "notifications",
+          "label": "Notifications",
+          "file": "notifications.svg",
+          "source": "style",
+          "displayOn": "style",
+          "provenance": "Google Material Symbols Outlined; mapped from observed Stitch glyphs",
+          "license": "Apache-2.0",
+          "width": 24,
+          "height": 24
+        }
+      ],
+      "layout": "adaptive",
+      "scope": "system"
+    },
+    {
+      "id": "devices_and_resources",
+      "name": "Devices and Resources",
+      "items": [
+        {
+          "id": "energy",
+          "label": "Energy",
+          "file": "bolt.svg",
+          "source": "style",
+          "displayOn": "asset",
+          "provenance": "Google Material Symbols Outlined; mapped from observed Stitch glyphs",
+          "license": "Apache-2.0",
+          "width": 24,
+          "height": 24
+        },
+        {
+          "id": "water",
+          "label": "Water",
+          "file": "water_drop.svg",
+          "source": "style",
+          "displayOn": "asset",
+          "provenance": "Google Material Symbols Outlined; mapped from observed Stitch glyphs",
+          "license": "Apache-2.0",
+          "width": 24,
+          "height": 24
+        },
+        {
+          "id": "hvac",
+          "label": "HVAC",
+          "file": "ac_unit.svg",
+          "source": "style",
+          "displayOn": "asset",
+          "provenance": "Google Material Symbols Outlined; mapped from observed Stitch glyphs",
+          "license": "Apache-2.0",
+          "width": 24,
+          "height": 24
+        },
+        {
+          "id": "ev-charger",
+          "label": "EV charger",
+          "file": "ev_station.svg",
+          "source": "style",
+          "displayOn": "asset",
+          "provenance": "Google Material Symbols Outlined; mapped from observed Stitch glyphs",
+          "license": "Apache-2.0",
+          "width": 24,
+          "height": 24
+        },
+        {
+          "id": "sprinkler",
+          "label": "Sprinkler",
+          "file": "sprinkler.svg",
+          "source": "style",
+          "displayOn": "asset",
+          "provenance": "Google Material Symbols Outlined; mapped from observed Stitch glyphs",
+          "license": "Apache-2.0",
+          "width": 24,
+          "height": 24
+        },
+        {
+          "id": "hvac-consumption",
+          "label": "HVAC consumption",
+          "file": "hvac.svg",
+          "displayOn": "asset",
+          "provenance": "Google Material Symbols Outlined; mapped from observed Stitch glyphs",
+          "license": "Apache-2.0",
+          "width": 24,
+          "height": 24
+        },
+        {
+          "id": "dishwasher",
+          "label": "Dishwasher",
+          "file": "local_laundry_service.svg",
+          "displayOn": "asset",
+          "provenance": "Google Material Symbols Outlined; mapped from observed Stitch glyphs",
+          "license": "Apache-2.0",
+          "width": 24,
+          "height": 24
+        }
+      ],
+      "layout": "adaptive",
+      "scope": "project"
+    },
+    {
+      "id": "actions_and_status",
+      "name": "Actions and Status",
+      "items": [
+        {
+          "id": "filter",
+          "label": "Filter",
+          "file": "filter_list.svg",
+          "displayOn": "asset",
+          "provenance": "Google Material Symbols Outlined; mapped from observed Stitch glyphs",
+          "license": "Apache-2.0",
+          "width": 24,
+          "height": 24
+        },
+        {
+          "id": "add-flow",
+          "label": "Add flow",
+          "file": "add.svg",
+          "displayOn": "asset",
+          "provenance": "Google Material Symbols Outlined; mapped from observed Stitch glyphs",
+          "license": "Apache-2.0",
+          "width": 24,
+          "height": 24
+        },
+        {
+          "id": "eco-mode",
+          "label": "Eco mode",
+          "file": "eco.svg",
+          "displayOn": "asset",
+          "provenance": "Google Material Symbols Outlined; mapped from observed Stitch glyphs",
+          "license": "Apache-2.0",
+          "width": 24,
+          "height": 24
+        },
+        {
+          "id": "optimization-tip",
+          "label": "Optimization tip",
+          "file": "lightbulb.svg",
+          "displayOn": "asset",
+          "provenance": "Google Material Symbols Outlined; mapped from observed Stitch glyphs",
+          "license": "Apache-2.0",
+          "width": 24,
+          "height": 24
+        },
+        {
+          "id": "efficiency-trend",
+          "label": "Efficiency trend",
+          "file": "trending_up.svg",
+          "displayOn": "asset",
+          "provenance": "Google Material Symbols Outlined; mapped from observed Stitch glyphs",
+          "license": "Apache-2.0",
+          "width": 24,
+          "height": 24
+        },
+        {
+          "id": "savings-trend",
+          "label": "Savings trend",
+          "file": "arrow_outward.svg",
+          "displayOn": "asset",
+          "provenance": "Google Material Symbols Outlined; mapped from observed Stitch glyphs",
+          "license": "Apache-2.0",
+          "width": 24,
+          "height": 24
+        },
+        {
+          "id": "temperature",
+          "label": "Temperature",
+          "file": "thermostat.svg",
+          "displayOn": "asset",
+          "provenance": "Google Material Symbols Outlined; mapped from observed Stitch glyphs",
+          "license": "Apache-2.0",
+          "width": 24,
+          "height": 24
+        },
+        {
+          "id": "rain-forecast",
+          "label": "Rain forecast",
+          "file": "cloud.svg",
+          "displayOn": "asset",
+          "provenance": "Google Material Symbols Outlined; mapped from observed Stitch glyphs",
+          "license": "Apache-2.0",
+          "width": 24,
+          "height": 24
+        },
+        {
+          "id": "verified-status",
+          "label": "Verified status",
+          "file": "verified.svg",
+          "displayOn": "asset",
+          "provenance": "Google Material Symbols Outlined; mapped from observed Stitch glyphs",
+          "license": "Apache-2.0",
+          "width": 24,
+          "height": 24
+        }
+      ],
+      "layout": "adaptive",
+      "scope": "project"
+    }
+  ],
+  "classificationVersion": 1
+}

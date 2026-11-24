@@ -1,0 +1,93 @@
+{
+  "name": "From Kiln to Shelf · Storyboard acceptance",
+  "devices": [
+    {
+      "name": "Shot 01 · Set the shelf",
+      "width": 960,
+      "height": 540,
+      "start": "opening",
+      "expectedRoute": [
+        "opening"
+      ],
+      "frames": [
+        {
+          "id": "opening",
+          "name": "Shot 01 · Set the shelf",
+          "file": "pages/opening.html",
+          "uniqueNames": true,
+          "verifyAssets": true,
+          "checks": [
+            {
+              "selector": "h1",
+              "text": "From kiln to shelf",
+              "font": "Georgia"
+            },
+            {
+              "selector": ".title-block",
+              "rect": {
+                "x": 52
+              }
+            },
+            {
+              "selector": ".asset-image",
+              "count": 2
+            },
+            {
+              "selector": ".composition figure:first-child img",
+              "css": {
+                "object-fit": "contain"
+              },
+              "rect": {
+                "height": 234
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Shot 02 · The iron kettle",
+      "width": 960,
+      "height": 540,
+      "start": "detail",
+      "expectedRoute": [
+        "detail"
+      ],
+      "frames": [
+        {
+          "id": "detail",
+          "name": "Shot 02 · The iron kettle",
+          "file": "pages/detail.html",
+          "uniqueNames": true,
+          "verifyAssets": true,
+          "checks": [
+            {
+              "selector": "h1",
+              "text": "Iron settles into the form",
+              "font": "Georgia"
+            },
+            {
+              "selector": ".title-block",
+              "rect": {
+                "x": 52
+              }
+            },
+            {
+              "selector": ".asset-image",
+              "count": 2
+            },
+            {
+              "selector": ".composition figure:first-child img",
+              "css": {
+                "object-fit": "contain"
+              },
+              "rect": {
+                "height": 330
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

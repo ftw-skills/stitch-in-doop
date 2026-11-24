@@ -1,0 +1,38 @@
+{
+  "name": "EcoSync · Stitch source acceptance",
+  "devices": [
+    {
+      "name": "Mobile",
+      "width": 390,
+      "height": 844,
+      "frameHeight": 1120,
+      "start": "dashboard",
+      "expectedRoute": ["dashboard", "history", "automations", "dashboard"],
+      "frames": [
+        {
+          "id": "dashboard", "name": "Main Dashboard", "file": "pages/dashboard.html",
+          "checks": [
+            {"selector":"h1","text":"Main Dashboard"},
+            {"selector":"body","css":{"background-color":"rgb(248, 249, 255)"}},
+            {"selector":"[data-doop-name=\"input_hvac\"]:checked","count":1},
+            {"selector":"[data-doop-name=\"nav_usage_history\"][data-route-key=\"history\"]","count":1}
+          ]
+        },
+        {
+          "id": "history", "name": "Usage History", "file": "pages/history.html",
+          "checks": [
+            {"selector":"body","css":{"background-color":"rgb(248, 249, 255)"}},
+            {"selector":"[data-doop-name=\"button_automate_now\"][data-route-key=\"automations\"]","count":1}
+          ]
+        },
+        {
+          "id": "automations", "name": "Automations", "file": "pages/automations.html",
+          "checks": [
+            {"selector":"body","css":{"background-color":"rgb(248, 249, 255)"}},
+            {"selector":"[data-doop-name=\"nav_dashboard\"][data-route-key=\"dashboard\"]","count":1}
+          ]
+        }
+      ]
+    }
+  ]
+}

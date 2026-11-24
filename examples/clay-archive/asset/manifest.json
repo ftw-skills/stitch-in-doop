@@ -1,0 +1,105 @@
+{
+  "classificationVersion": 1,
+  "categories": [
+    {
+      "id": "intro",
+      "name": "Studio",
+      "scope": "system",
+      "layout": "adaptive",
+      "purpose": "Studio identity in the introduction",
+      "items": [
+        {
+          "id": "studio",
+          "label": "Studio",
+          "file": "studio.svg",
+          "source": "style",
+          "displayOn": "style",
+          "width": 24,
+          "height": 24,
+          "provenance": "Original Clay Archive glyph",
+          "license": "Project-authored"
+        }
+      ]
+    },
+    {
+      "id": "objects",
+      "name": "Object Marks",
+      "scope": "project",
+      "layout": "adaptive",
+      "rawFolder": "icons",
+      "purpose": "Peer glyphs on the record cards",
+      "items": [
+        {
+          "id": "bowl",
+          "label": "Celadon bowl",
+          "file": "bowl.svg",
+          "displayOn": "asset",
+          "width": 24,
+          "height": 24,
+          "provenance": "Original Clay Archive glyph",
+          "license": "Project-authored"
+        },
+        {
+          "id": "vessel",
+          "label": "Earthenware jar",
+          "file": "vessel.svg",
+          "displayOn": "asset",
+          "width": 24,
+          "height": 24,
+          "provenance": "Original Clay Archive glyph",
+          "license": "Project-authored"
+        },
+        {
+          "id": "kettle",
+          "label": "Iron-glazed kettle",
+          "file": "kettle.svg",
+          "displayOn": "asset",
+          "width": 24,
+          "height": 24,
+          "provenance": "Original Clay Archive glyph",
+          "license": "Project-authored"
+        }
+      ]
+    },
+    {
+      "id": "photography",
+      "name": "Photography",
+      "kind": "photo",
+      "layout": "adaptive",
+      "rawFolder": "photos",
+      "purpose": "Ceramic study images on the object records",
+      "items": [
+        {
+          "id": "landscape",
+          "label": "Celadon bowl",
+          "file": "landscape.png",
+          "aspectRatio": 1.610738255033557,
+          "provenance": "Generated Kiln Notes sheet via Harbor Atlas",
+          "license": "Existing project-generated reference asset",
+          "width": 480,
+          "height": 298
+        },
+        {
+          "id": "portrait",
+          "label": "Earthenware jar",
+          "file": "portrait.png",
+          "aspectRatio": 0.7,
+          "provenance": "Generated Kiln Notes sheet via Harbor Atlas",
+          "license": "Existing project-generated reference asset",
+          "width": 420,
+          "height": 600
+        },
+        {
+          "id": "square",
+          "label": "Iron-glazed kettle",
+          "file": "square.png",
+          "aspectRatio": 1,
+          "provenance": "Generated Kiln Notes sheet via Harbor Atlas",
+          "license": "Existing project-generated reference asset",
+          "width": 480,
+          "height": 480
+        }
+      ]
+    }
+  ]
+}
